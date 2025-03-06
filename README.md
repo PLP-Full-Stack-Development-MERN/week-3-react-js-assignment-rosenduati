@@ -3,7 +3,7 @@
 To install, run, and use the React Contact List project:
 
 ## Clone the Repository:
-git clone https://github.com/ebenezerdon/react-contact-list.git
+git clone https://github.com/PLP-Full-Stack-Development-MERN/week-3-react-js-assignment-rosenduati
 cd react-assignment
 
 ## Install Dependencies:
